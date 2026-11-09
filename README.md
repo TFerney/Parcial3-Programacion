@@ -3,7 +3,7 @@
 **Asignatura:** Programación I (Parcial 3 — Trabajo Final)  
 **Institución:** Universidad de Santander (UDES)  
 **Autores:** 
-* Bladimir Ferney Bermúdez Toloza — Código: `01251152013
+* Bladimir Ferney Bermúdez Toloza — Código: `01251152013`
 * Darwin Samuel Machuca González — Código: `01251152024`
 
 ---
